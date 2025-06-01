@@ -3,8 +3,8 @@ class Conndoc < Formula
   
     desc "Command-line tool for diagnosing network connectivity"
     homepage "https://github.com/mertacikportali/conndoc"
-    url "https://files.pythonhosted.org/packages/7c/2b/287149a75b799d2a8f3f90cdd11d754b16b8cdcf15699013b3c2981f8bb8/conndoc-0.2.0.tar.gz"
-    sha256 "1e3976731f3cd61f77d6c9d1763ccf648af43ee6a3a5a2671c56103bd29b4f13"
+    url "https://files.pythonhosted.org/packages/3b/0e/4ed9020750e459ee3d697dd0f1209a7ab0f122070efe9f9beb6cc87f08f6/conndoc-0.2.2.tar.gz"
+    sha256 "817c040e7223c92acc6000b0a283cbd540ebc691d6e3b5c63f2533d5038dd730"
     license "Apache-2.0"
   
     depends_on "python@3.11"
